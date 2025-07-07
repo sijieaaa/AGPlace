@@ -1,6 +1,8 @@
 # AGPlace
 (CVPR 2025) Multi-Modal Aerial-Ground Cross-View Place Recognition with Neural ODEs
 
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Multi-Modal_Aerial-Ground_Cross-View_Place_Recognition_with_Neural_ODEs_CVPR_2025_paper.pdf)
+
 ![teaser](./teaser.png)
 
 
