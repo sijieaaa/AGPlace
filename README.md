@@ -78,6 +78,17 @@ python train.py --cuda 1  --dataset kitti360  --camnames 00
 
 - The code is based on the DVGLB framework (https://github.com/gmberton/deep-visual-geo-localization-benchmark). You can find more information on it.
 
+## Citation
+```
+@inproceedings{wang2025multi,
+  title={Multi-Modal Aerial-Ground Cross-View Place Recognition with Neural ODEs},
+  author={Wang, Sijie and She, Rui and Kang, Qiyu and Li, Siqi and Li, Disheng and Geng, Tianyu and Yu, Shangshu and Tay, Wee Peng},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={11717--11728},
+  year={2025}
+}
+```
+
 
 ## License
 The code follows [NTUitive Dual License](./NTUitive%20Dual%20License.rtf).
