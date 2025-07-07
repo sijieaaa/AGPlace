@@ -73,10 +73,10 @@ All data has been processed and is ready. You just need to download and unzip th
 - Then you can start the code running. 
 ```
 # nuscenes
-python train.py --cuda 0  --dataset nuscenes  --camnames fl_f_fr_bl_b_br
+python train.py --cuda 0  --dataset nuscenes --epochs_num 100  --camnames fl_f_fr_bl_b_br
 
 # kitti360
-python train.py --cuda 1  --dataset kitti360  --camnames 00
+python train.py --cuda 1  --dataset kitti360 --epochs_num 40  --camnames 00
 ```
 
 - The code is based on the DVGLB framework (https://github.com/gmberton/deep-visual-geo-localization-benchmark). You can find more information on it.
