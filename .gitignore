@@ -1,0 +1,10 @@
+*.pyc
+__pycache__/
+*.ckpt
+*.log
+*.safetensors
+venv/
+.env
+.DS_Store
+output/
+checkpoints/
