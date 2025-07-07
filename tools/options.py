@@ -207,7 +207,6 @@ def parse_arguments():
     parser.add_argument("--seed", type=int, default=0)
     parser.add_argument("--resume", type=str,help="Path to load checkpoint from, for resuming training or testing.",
                         default=None,
-                        # default='logs/ep50_1000_8000__image_bev__satellite_roadmap__4__0.9__outl2False__finall2False__dim256__db256_256__bevrot180__bevjit0.5==__vanilla2d/last_model.pth'
                         )
 
 
