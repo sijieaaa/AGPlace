@@ -58,6 +58,7 @@ pip install huggingface-hub
 pip install timm
 pip install transformers
 pip install albumentations
+pip install numpy==1.25.0
 ```
 
 ## Dataset
